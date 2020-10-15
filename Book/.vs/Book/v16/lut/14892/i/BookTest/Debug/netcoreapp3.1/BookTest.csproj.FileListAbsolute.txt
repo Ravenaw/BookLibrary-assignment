@@ -1,0 +1,15 @@
+C:\Users\raven\source\repos\Book\.vs\Book\v16\lut\0\b\BookTest\Debug\netcoreapp3.1\testhost.dll
+C:\Users\raven\source\repos\Book\.vs\Book\v16\lut\0\b\BookTest\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\raven\source\repos\Book\.vs\Book\v16\lut\0\b\BookTest\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\raven\source\repos\Book\.vs\Book\v16\lut\0\b\BookTest\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\raven\source\repos\Book\.vs\Book\v16\lut\0\b\BookTest\Debug\netcoreapp3.1\testhost.exe
+C:\Users\raven\source\repos\Book\.vs\Book\v16\lut\0\b\BookTest\Debug\netcoreapp3.1\BookTest.deps.json
+C:\Users\raven\source\repos\Book\.vs\Book\v16\lut\0\b\BookTest\Debug\netcoreapp3.1\BookTest.runtimeconfig.json
+C:\Users\raven\source\repos\Book\.vs\Book\v16\lut\0\b\BookTest\Debug\netcoreapp3.1\BookTest.runtimeconfig.dev.json
+C:\Users\raven\source\repos\Book\.vs\Book\v16\lut\0\b\BookTest\Debug\netcoreapp3.1\BookTest.dll
+C:\Users\raven\source\repos\Book\.vs\Book\v16\lut\0\i\BookTest\Debug\netcoreapp3.1\BookTest.csprojAssemblyReference.cache
+C:\Users\raven\source\repos\Book\.vs\Book\v16\lut\0\i\BookTest\Debug\netcoreapp3.1\BookTest.AssemblyInfoInputs.cache
+C:\Users\raven\source\repos\Book\.vs\Book\v16\lut\0\i\BookTest\Debug\netcoreapp3.1\BookTest.AssemblyInfo.cs
+C:\Users\raven\source\repos\Book\.vs\Book\v16\lut\0\i\BookTest\Debug\netcoreapp3.1\BookTest.csproj.CopyComplete
+C:\Users\raven\source\repos\Book\.vs\Book\v16\lut\0\i\BookTest\Debug\netcoreapp3.1\BookTest.dll
+C:\Users\raven\source\repos\Book\.vs\Book\v16\lut\0\i\BookTest\Debug\netcoreapp3.1\BookTest.genruntimeconfig.cache

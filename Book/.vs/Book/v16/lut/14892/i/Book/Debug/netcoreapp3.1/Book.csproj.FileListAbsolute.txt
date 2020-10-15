@@ -1,0 +1,8 @@
+C:\Users\raven\source\repos\Book\.vs\Book\v16\lut\0\b\Book\Debug\netcoreapp3.1\Book.deps.json
+C:\Users\raven\source\repos\Book\.vs\Book\v16\lut\0\b\Book\Debug\netcoreapp3.1\Book.dll
+C:\Users\raven\source\repos\Book\.vs\Book\v16\lut\0\b\Book\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.dll
+C:\Users\raven\source\repos\Book\.vs\Book\v16\lut\0\i\Book\Debug\netcoreapp3.1\Book.csprojAssemblyReference.cache
+C:\Users\raven\source\repos\Book\.vs\Book\v16\lut\0\i\Book\Debug\netcoreapp3.1\Book.AssemblyInfoInputs.cache
+C:\Users\raven\source\repos\Book\.vs\Book\v16\lut\0\i\Book\Debug\netcoreapp3.1\Book.AssemblyInfo.cs
+C:\Users\raven\source\repos\Book\.vs\Book\v16\lut\0\i\Book\Debug\netcoreapp3.1\Book.csproj.CopyComplete
+C:\Users\raven\source\repos\Book\.vs\Book\v16\lut\0\i\Book\Debug\netcoreapp3.1\Book.dll

@@ -1,0 +1,9 @@
+C:\Users\raven\source\repos\Book\bin\Debug\netcoreapp3.1\Book.deps.json
+C:\Users\raven\source\repos\Book\bin\Debug\netcoreapp3.1\Book.dll
+C:\Users\raven\source\repos\Book\bin\Debug\netcoreapp3.1\Book.pdb
+C:\Users\raven\source\repos\Book\bin\Debug\netcoreapp3.1\Book.xml
+C:\Users\raven\source\repos\Book\obj\Debug\netcoreapp3.1\Book.AssemblyInfoInputs.cache
+C:\Users\raven\source\repos\Book\obj\Debug\netcoreapp3.1\Book.AssemblyInfo.cs
+C:\Users\raven\source\repos\Book\obj\Debug\netcoreapp3.1\Book.csproj.CoreCompileInputs.cache
+C:\Users\raven\source\repos\Book\obj\Debug\netcoreapp3.1\Book.dll
+C:\Users\raven\source\repos\Book\obj\Debug\netcoreapp3.1\Book.pdb
